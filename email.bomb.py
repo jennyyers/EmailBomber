@@ -16,7 +16,7 @@ user = input('YOUR ANONYMOUS NAME : ')
 email = input('\nYOUR EMAIL ADDRESS : ')
 passwd = getpass('\nYOUR EMAIL PASSWORD : ')
 to = input('\nVICTIM EMAIL ADDRESS :')
-total = input('\NUMBER OF EMAILS SENT(500 MINIMUM) : ')
+total = input('\NUMBER OF EMAILS SENT : ')
 body = input('\nYOUR MESSAGE : ')
 Cserver = input('\nCustom smtp server (leave blank to use gmail): ')
 
