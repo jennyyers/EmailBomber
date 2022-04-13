@@ -5,11 +5,11 @@ import sys
 from time import sleep
 
 print('                                                     ')
-print('  [̲̅E][̲̅M][̲̅A][̲̅I][̲̅L] [̲̅B][̲̅O][̲̅M][̲̅B][̲̅E][̲̅R] [̲̅T][̲̅O][̲̅O][̲̅L]    ')
+print('                EMAIL BOMBER TOOL V1                 ')
 print('                        BY:                          ')
-print('             [̲̅A][̲̅R][̲̅I][̲̅E][̲̅L] [̲̅Y][̲̅A][̲̅P]               ')
+print('                 A R I E L  Y A P                    ')
 print('                                                     ')
-print('【ＥＤＵＣＡＴＩＯＮＡＬ　ＰＵＲＰＯＳＥＳ　ＯＮＬＹ！】  ')
+print('             EDUCATIONAL PURPOSES ONLY               ')
 print('\n\n')
 
 user = input('YOUR ANONYMOUS NAME : ')
